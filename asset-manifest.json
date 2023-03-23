@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/React-Yarofolio/static/css/main.52ebd75c.css",
+    "main.js": "/React-Yarofolio/static/js/main.3852d727.js",
+    "static/js/787.ef0e372c.chunk.js": "/React-Yarofolio/static/js/787.ef0e372c.chunk.js",
+    "static/media/Astrono-My.png": "/React-Yarofolio/static/media/Astrono-My.d57aebae84c344355a68.png",
+    "static/media/JATE.png": "/React-Yarofolio/static/media/JATE.81a607d5b24e6b609c39.png",
+    "static/media/fa-solid-900.ttf": "/React-Yarofolio/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/YourWeather.png": "/React-Yarofolio/static/media/YourWeather.d3b3284e41c71a6033ea.png",
+    "static/media/fa-brands-400.ttf": "/React-Yarofolio/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/fa-solid-900.woff2": "/React-Yarofolio/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/password-generator.png": "/React-Yarofolio/static/media/password-generator.3cd7ad962a7df0911e7e.png",
+    "static/media/Full_Stack_Web_Developer_Resume.pdf": "/React-Yarofolio/static/media/Full_Stack_Web_Developer_Resume.b88879f4b34e6e21c289.pdf",
+    "static/media/fa-brands-400.woff2": "/React-Yarofolio/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/Yaro.jpeg": "/React-Yarofolio/static/media/Yaro.2f091c85c7932fc3b773.jpeg",
+    "static/media/quize.png": "/React-Yarofolio/static/media/quize.fdb7beae213b736dc234.png",
+    "static/media/fa-regular-400.ttf": "/React-Yarofolio/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/ASL_Fingerspelling_Game.png": "/React-Yarofolio/static/media/ASL_Fingerspelling_Game.8d36ec5a11085edb4f75.png",
+    "static/media/fa-regular-400.woff2": "/React-Yarofolio/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/fa-v4compatibility.ttf": "/React-Yarofolio/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/React-Yarofolio/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "/React-Yarofolio/index.html",
+    "main.52ebd75c.css.map": "/React-Yarofolio/static/css/main.52ebd75c.css.map",
+    "main.3852d727.js.map": "/React-Yarofolio/static/js/main.3852d727.js.map",
+    "787.ef0e372c.chunk.js.map": "/React-Yarofolio/static/js/787.ef0e372c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52ebd75c.css",
+    "static/js/main.3852d727.js"
+  ]
+}
