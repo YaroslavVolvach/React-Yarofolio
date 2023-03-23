@@ -1,0 +1,30 @@
+.intro-img {margin-left: 15px}
+
+#about {
+    text-align: center; 
+}
+
+#image {
+    width: 19%;
+    border-radius: 100%;
+    float: left;
+    margin-right: 20px;
+    border: 3px solid;
+}
+
+p{
+    text-align: justify;
+    width: 95%;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+
+#line{
+    position: absolute;
+    margin-bottom: 5px;
+    right: 4%;
+    width: 75%;
+    border-top: 3px solid;
+}
+

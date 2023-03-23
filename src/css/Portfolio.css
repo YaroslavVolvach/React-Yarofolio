@@ -1,0 +1,23 @@
+main .row {
+    margin-right: 0;
+}
+
+#cards {
+    width: 80%;
+    position: relative;
+    top: 20%;
+    left: 10%;
+}
+
+.card {
+    border: 3px solid;
+    max-width: 650px;
+    margin-left: 25px;
+}
+
+.linkCard {
+    text-align: center;
+    color: #000;
+    text-decoration: none;
+}
+
