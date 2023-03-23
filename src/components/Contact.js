@@ -53,7 +53,7 @@ export default function Contact() {
            </div>
            <div className="mb-3">
                <label htmlFor="exampleFormControlTextarea1" className="form-label">Massage</label>
-               <textarea className="form-control" id="exampleFormControlTextarea3" rows="3" name="Massage" onMouseOut={isEmpty} onMouseOver={send}></textarea>
+               <textarea className="form-control" id="exampleFormControlTextarea3" placeholder="Massage" rows="3" name="Massage" onMouseOut={isEmpty} onMouseOver={send}></textarea>
            </div>
         <div><button type="submit" className="btn btn-primary">Submit</button></div>
         <br />

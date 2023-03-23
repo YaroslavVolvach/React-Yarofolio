@@ -23,7 +23,7 @@ function Resume() {
     </div>
         <div className="row row-cols-1 row-cols-sm-3 row-cols-md-3">
             <div id="front" className="col">
-              <h5>Font-End</h5>
+              <h5>Front-End</h5>
               <ul>
                   <li><h6>JavaScript</h6></li>
                   <li><h6>React</h6></li>
