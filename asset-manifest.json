@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Yarofolio/static/css/main.52ebd75c.css",
-    "main.js": "/React-Yarofolio/static/js/main.3852d727.js",
+    "main.js": "/React-Yarofolio/static/js/main.e8565d69.js",
     "static/js/787.ef0e372c.chunk.js": "/React-Yarofolio/static/js/787.ef0e372c.chunk.js",
     "static/media/Astrono-My.png": "/React-Yarofolio/static/media/Astrono-My.d57aebae84c344355a68.png",
     "static/media/JATE.png": "/React-Yarofolio/static/media/JATE.81a607d5b24e6b609c39.png",
@@ -21,11 +21,11 @@
     "static/media/fa-v4compatibility.woff2": "/React-Yarofolio/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
     "index.html": "/React-Yarofolio/index.html",
     "main.52ebd75c.css.map": "/React-Yarofolio/static/css/main.52ebd75c.css.map",
-    "main.3852d727.js.map": "/React-Yarofolio/static/js/main.3852d727.js.map",
+    "main.e8565d69.js.map": "/React-Yarofolio/static/js/main.e8565d69.js.map",
     "787.ef0e372c.chunk.js.map": "/React-Yarofolio/static/js/787.ef0e372c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52ebd75c.css",
-    "static/js/main.3852d727.js"
+    "static/js/main.e8565d69.js"
   ]
 }
