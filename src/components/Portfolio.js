@@ -1,6 +1,6 @@
 import React from 'react';
 import ASL_Fingerspelling_Game from '../assets/project/ASL_Fingerspelling_Game.png'
-import crypto_coin from '../assets/project/crypto_coin'
+import crypto_coin from '../assets/project/crypto_coin.png'
 import AstronoMy from '../assets/project/Astrono-My.png'
 import YourWeather from '../assets/project/YourWeather.png'
 import JATE from '../assets/project/JATE.png'
