@@ -1,6 +1,6 @@
 import React from 'react';
 import ASL_Fingerspelling_Game from '../assets/project/ASL_Fingerspelling_Game.png'
-import ASL_Fingerspelling_Game from '../assets/project/cryptocoin'
+import crypto_coin from '../assets/project/crypto_coin'
 import AstronoMy from '../assets/project/Astrono-My.png'
 import YourWeather from '../assets/project/YourWeather.png'
 import JATE from '../assets/project/JATE.png'
@@ -27,7 +27,7 @@ export default function Profile() {
         <MDBCard>
           <a href='https://cryptocoin.herokuapp.com/'>
           <MDBCardImage
-            src={cryptocoin}
+            src={crypto_coin}
             alt='cryptocoin'
             position='top'
           />
