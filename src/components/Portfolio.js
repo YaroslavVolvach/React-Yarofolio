@@ -1,5 +1,6 @@
 import React from 'react';
 import ASL_Fingerspelling_Game from '../assets/project/ASL_Fingerspelling_Game.png'
+import ASL_Fingerspelling_Game from '../assets/project/cryptocoin'
 import AstronoMy from '../assets/project/Astrono-My.png'
 import YourWeather from '../assets/project/YourWeather.png'
 import JATE from '../assets/project/JATE.png'
@@ -22,6 +23,23 @@ import {
 export default function Profile() {
   return (
     <MDBRow className='row-cols-1 row-cols-md-2 g-4'>
+      <MDBCol>
+        <MDBCard>
+          <a href='https://cryptocoin.herokuapp.com/'>
+          <MDBCardImage
+            src={cryptocoin}
+            alt='cryptocoin'
+            position='top'
+          />
+          </a>
+          <MDBCardBody>
+            <MDBCardTitle><a className='linkCard' href='https://cryptocoin.herokuapp.com/'>Crypto-Coin</a></MDBCardTitle>
+            <MDBCardText>
+              <a className='linkCard' href="https://github.com/vasilyl1/crypto-coin">GitHub Repository</a>
+            </MDBCardText>
+          </MDBCardBody>
+        </MDBCard>
+      </MDBCol>
       <MDBCol>
         <MDBCard>
           <a href='https://asl-fingerspelling-game.herokuapp.com/'>
