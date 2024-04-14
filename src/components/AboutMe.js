@@ -1,7 +1,6 @@
 import React from "react";
 import profileImage from "../assets/profile/Yaro.jpeg";
-import "../css/AboutMe.css"
-
+import "../css/AboutMe.css";
 
 function AboutMe() {
   return (
@@ -16,22 +15,26 @@ function AboutMe() {
           <div className="intro-img">
             <img id="image" src={profileImage} alt="profile" />
           </div>
-          <p id="line"></p>
-           <div>
-  <p>
-    <strong>Software Engineer</strong> with <strong>3 years</strong> of experience in full stack development, with a strong focus on <strong>JavaScript/React</strong> for front-end and <strong>Python</strong> for back-end programming.
-  </p>
-  <p>
-    I'm dedicated to creating <em>clean</em>, <em>efficient code</em> and <em>user-friendly</em>, <em>reusable designs</em>.
-  </p>
-  <p>
-    Eager to grow, I am currently enhancing my skillset by learning <strong>Rust</strong> and <strong>Solidity</strong>.
-  </p>
-</div>
+          <div>
+            <p>
+              <strong>Software Engineer</strong> with <strong>3 years</strong>{" "}
+              of experience in full stack development, with a strong focus on{" "}
+              <strong>JavaScript/React</strong> for front-end and{" "}
+              <strong>Python</strong> for back-end programming.
+            </p>
+            <p>
+              I'm dedicated to creating <em>clean</em>, <em>efficient code</em>{" "}
+              and <em>user-friendly</em>, <em>reusable designs</em>.
+            </p>
+            <p>
+              Eager to grow, I am currently enhancing my skills by learning{" "}
+              <strong>Rust</strong> and <strong>Solidity</strong>.
+            </p>
+          </div>
 
-         <p><strong>Sincerely, Yaroslav Volvach (You can call me Yaro)</strong></p>
-    
-
+          <p>
+            <strong>Sincerely, Yaroslav Volvach (You can call me Yaro)</strong>
+          </p>
         </div>
       </div>
     </section>
@@ -39,3 +42,4 @@ function AboutMe() {
 }
 
 export default AboutMe;
+
