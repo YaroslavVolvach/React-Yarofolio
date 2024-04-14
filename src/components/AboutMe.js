@@ -17,11 +17,19 @@ function AboutMe() {
             <img id="image" src={profileImage} alt="profile" />
           </div>
           <p id="line"></p>
-         <p><strong>Hello, I am Yaroslav. I want to tell you about myself.</strong></p>
+           <div>
+  <p>
+    <strong>Software Engineer</strong> with <strong>3 years</strong> of experience in full stack development, with a strong focus on <strong>JavaScript/React</strong> for front-end and <strong>Python</strong> for back-end programming.
+  </p>
+  <p>
+    I'm dedicated to creating <em>clean</em>, <em>efficient code</em> and <em>user-friendly</em>, <em>reusable designs</em>.
+  </p>
+  <p>
+    Eager to grow, I am currently enhancing my skillset by learning <strong>Rust</strong> and <strong>Solidity</strong>.
+  </p>
+</div>
 
-         <p>
-          I am a skilled full-stack developer with experience in building web applications using various technologies, including NodeJS, React, MongoDB, GraphQL, Python, Django, PostgreSQL, JavaScript, HTML, and CSS. I have developed a dumb language learning service, a platform for cryptocurrency information exchange, an application for providing the latest space industry news, and an e-commerce website for selling flowers. These experiences have taught me how to collaborate with team members, design and implement complex database schema, develop RESTful APIs, implement secure payment gateways, and integrate with external APIs. I am a problem-solver who enjoys taking on new challenges and learning new technologies. When I'm not coding, I enjoy swimming, walking, watching movies, traveling and having time with my family and friends.
-          <p><strong>Sincerely, Yaroslav Volvach (You can call me Yaro)</strong></p>
+         <p><strong>Sincerely, Yaroslav Volvach (You can call me Yaro)</strong></p>
     
 
         </div>
