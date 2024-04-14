@@ -26,7 +26,9 @@ function Resume() {
               <h5>Front-End</h5>
               <ul>
                   <li><h6>JavaScript</h6></li>
+                  <li><h6>TypeScript</h6></li>
                   <li><h6>React</h6></li>
+                  <li><h6>Redux</h6></li>
                   <li><h6>HTML</h6></li>
                   <li><h6>CSS</h6></li>
                   <li><h6>Bootstrap</h6></li>
@@ -36,6 +38,8 @@ function Resume() {
             <h5>Back-End</h5>
             <ul>
                 <li><h6>JavaScript</h6></li>
+                <li><h6>TypeScript</h6></li>
+                <li><h6>Rust</h6></li>
                 <li><h6>NodeJS</h6></li>
                 <li><h6>ExpressJS</h6></li>
                 <li><h6>Python</h6></li>
