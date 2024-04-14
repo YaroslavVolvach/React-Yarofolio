@@ -1,5 +1,5 @@
 import React from "react";
-import myResume from "../assets/resume/Full_Stack_Web_Developer_Resume.pdf";
+import myResume from "../assets/resume/Yaroslav_Volvach-Resume.pdf";
 import { BsCloudDownload } from "react-icons/bs";
 import '../css/Resume.css'
 
@@ -39,7 +39,6 @@ function Resume() {
             <ul>
                 <li><h6>JavaScript</h6></li>
                 <li><h6>TypeScript</h6></li>
-                <li><h6>Rust</h6></li>
                 <li><h6>NodeJS</h6></li>
                 <li><h6>ExpressJS</h6></li>
                 <li><h6>Python</h6></li>
